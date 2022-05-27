@@ -1,0 +1,18 @@
+body{
+    /* background: linear-gradient(pink,lightblue, rgb(195, 147, 195)); */
+    background-color: #FEE3EC;
+}
+
+.contrast_shadow{
+    box-shadow: 1px 1px 35px #f26693;
+}
+
+.light_colors{
+    background-color: #F2789F;
+    border-color: #F2789F;
+}
+
+canvas{
+    border: 15px ridge #F2789F;
+    border-radius: 20px;
+}
